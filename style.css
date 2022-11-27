@@ -1,0 +1,68 @@
+body {
+
+    background-color: rgb(102, 101, 102);
+}
+
+.box {
+    background-color: rgb(186, 182, 182);
+    border: 1px solid #c4c4c4;
+    padding: 50px 35px 20px 35px;
+    margin: 50px auto;
+    width: 250px;
+
+
+}
+
+
+h1.box-title a {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.box-title {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: medium;
+}
+
+.box-input {
+    background-color: beige;
+    border: 1px solid rgb(57, 46, 46);
+    margin-bottom: 25px;
+    padding-left: 10px;
+    border-radius: 5px;
+    width: 220px;
+    height: 30px;
+
+}
+
+.box-button {
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    padding: 0%;
+    margin-left: 20%;
+}
+
+.box-register {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 5px;
+    font-size: 12px;
+    text-align: center;
+    color: rgb(73, 0, 155);
+
+}
+
+.box-register a {
+    padding-left: 8%;
+    margin-right: 20px;
+    font-size: small;
+    color: rgb(47, 3, 88);
+}
